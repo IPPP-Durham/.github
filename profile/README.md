@@ -1,14 +1,15 @@
-## Hi there 👋
+## Welcome
 
-<!--
+This is the official GitHub for the Institute for Particle Physics Phenomenology.
 
-**Here are some ideas to get you started:**
+**Useful links:**
+- [IPPP Website](https://ippp.dur.ac.uk)
+- [IPPP Gitlab](https://gitlab.dur.scotgrid.ac.uk/)
+- [University Website](http://durham.ac.uk)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Repositories
+All repos within this org are owned by the original author(s) and/or IPPP and/or Durham University.
+Please check the LISENCE file (if it exists) to understand your rights to the code.
 
-Please email oper.ip3@durham.ac.uk for access.
+### Requesting Access
+If you require access to this organisation then please email oper.ip3@durham.ac.uk.
